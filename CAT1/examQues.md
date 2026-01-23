@@ -17,7 +17,7 @@ There are 11 questions:
 1. Minimum Stack
 2. The Celebrity Problem
 3. Iterative Tower of Hanoi
-4. Stock SPan Problem
+4. Stock Span Problem
 5. Stack Permutations
 
 ## Queue
